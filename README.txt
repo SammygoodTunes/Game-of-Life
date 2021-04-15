@@ -27,17 +27,3 @@ TAB -> View credits
 
 
 The number on the top-left corner is the generation number.
-
-
-----------------------
-Troubleshooting:
-----------------------
-
-Q: What's a false-positive?
-A: A false-positive is when a certain antivirus considers an executable file as malicious software. This is due to the software not having a verified author/signature (certificate).
-
-False-positives can happen quite often with executable files (.EXE).
-If you feel unsafe with this file, feel free to delete it.
-If you suspect it to be a virus, it isn't. I wouldn't develop such a thing. I don't find messing up someone's PC as "fun".
-
-Enjoy the game!
