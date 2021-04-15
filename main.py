@@ -1,3 +1,9 @@
+'''
+Title: Game of Life
+Author: SammygoodTunes
+Version: 1.0
+'''
+
 import pygame,random,sys
 
 pygame.init()
@@ -72,8 +78,6 @@ def main():
 	square=Square()
 	mouse=Mouse()
 
-
-
 	mouse.update_cursor(square)
 
 	bg_colour=(0,0,0)
@@ -99,7 +103,6 @@ def main():
 					win=Win()
 					square=Square()
 					mouse=Mouse()
-
 
 				if e.key==pygame.K_TAB:
 					win.credit=True
