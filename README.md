@@ -13,15 +13,16 @@ depends and depends only on its initial state.
 Developed by: SammygoodTunes, Warzou
 Library(ies) used: Pygame 2.0.1
 
-NOTE: Data folder is needed to run this game (contains font file because can't find system fonts)
+NOTE: Data folder is needed to run this game.
 
-
+===================
 Controls:
+===================
 
-RMB -> Create/Delete cell
-Escape -> Reset grid
-Space -> Pause simulation
-TAB -> View credits
+[LMB] -> Create/Delete cell,
+[Escape] -> Reset grid,
+[Space] -> Pause simulation,
+[TAB] -> View credits
 
 
 The number on the top-left corner is the generation number.
