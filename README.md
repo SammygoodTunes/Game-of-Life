@@ -1,9 +1,6 @@
 # Game-of-Life
 Recreation of Game of Life imagined by John Conway
 
-========================
-Game of Life by John Conway
-========================
 
 In the 1970s, the mathematician John Horton Conway imagined a game consisting of a grid of living or dead cells as well as 2 simple rules:
 
@@ -13,15 +10,13 @@ In the 1970s, the mathematician John Horton Conway imagined a game consisting of
 Just those two rules created what is known as Game of Life (or simply Life), a playerless simulation which signifies that its evolution
 depends and depends only on its initial state.
 
-
 Developed by: SammygoodTunes, Warzou
+Library(ies) used: Pygame 2.0.1
 
 NOTE: Data folder is needed to run this game (contains font file because can't find system fonts)
 
 
---------------------
-Extra controls:
---------------------
+Controls:
 
 RMB -> Create/Delete cell
 Escape -> Reset grid
