@@ -77,7 +77,6 @@ class Mouse:
 		pygame.mouse.set_cursor((lines, lines), (int(square.size / 2), int(square.size / 2)), *cursor)
 
 
-
 def main():
 	
 	win = Win()
