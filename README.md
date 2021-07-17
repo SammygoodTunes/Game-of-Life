@@ -1,8 +1,7 @@
 # Game-of-Life
 Recreation of Game of Life imagined by John Conway
 
-Explanation:
-===================
+## Explanation:
 
 In the 1970s, the mathematician John Horton Conway imagined a game consisting of a grid of living or dead cells as well as 2 simple rules:
 
@@ -15,8 +14,7 @@ Just those two rules created what is known as Game of Life (or simply Life), a p
 depends and depends only on its initial state.
 
 
-Controls:
-===================
+## Controls:
 
 [LMB] -> Create/Delete cell
 
@@ -33,8 +31,7 @@ Controls:
 The number on the top-left corner is the generation number.
 
 
-Development information:
-===================
+## Development information:
 
 Developed by: SammygoodTunes, Warzou
 
